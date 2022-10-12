@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['debug_0',['Debug',['../namespacegpgmm.html#a977ac5299d49f79ffab44f0a5c8b0cafaa603905470e2a5b8c13e96b579ef0dba',1,'gpgmm']]],
-  ['default_1',['Default',['../namespacegpgmm.html#ae50b3049f91a97681a340ff73f6b4b7fa07687e4eace8946f087b35af8eebbed1',1,'gpgmm']]],
-  ['duration_2',['Duration',['../namespacegpgmm.html#af07e47c92a100a7aa1cce31b0bb8d829afdf9cbc5861e83287cab80fef3740041',1,'gpgmm']]]
+  ['heap_5fflag_5falways_5fin_5fbudget_0',['HEAP_FLAG_ALWAYS_IN_BUDGET',['../namespacegpgmm_1_1d3d12.html#abff116c525e8afde5753ee3b1311d662a076caccb5ec2fb9e005afeeac13d171f',1,'gpgmm::d3d12']]],
+  ['heaps_5fflag_5fnone_1',['HEAPS_FLAG_NONE',['../namespacegpgmm_1_1d3d12.html#abff116c525e8afde5753ee3b1311d662a71a9804cfbe652fef5164c6d2a22c455',1,'gpgmm::d3d12']]]
 ];
